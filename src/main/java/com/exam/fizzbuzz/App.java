@@ -17,8 +17,14 @@ public class App
     {
     	
     	if(args.length < 3) {
-    		System.out.println("Please add a positive number as an argument.");
-    		return;
+			System.out.println("");
+    		System.out.println("Invalid parameters.");
+			System.out.println("Please add the following parameters:");
+			System.out.println(" - Lower number;");
+			System.out.println(" - Higher number;");
+			System.out.println(" - List of Rules to apply to the numbers in the interval that you specified.");
+			System.out.println("");
+			return;
     	}
     	
     	int min = Integer.parseInt(args[0]);
