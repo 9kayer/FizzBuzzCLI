@@ -1,7 +1,7 @@
 # FizzBuzzCLI
 CLI for the FizzBuzz game
 
-(Note: it requires JRE to run.)
+(Note: it requires JRE1.8 or higher to run.)
 
 # Rules:
   - lucky: all numbers containing 3 are changed to the word "lucky";
