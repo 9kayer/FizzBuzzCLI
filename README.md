@@ -3,6 +3,10 @@ CLI for the FizzBuzz game
 
 (Note: it requires JRE 1.8 or higher to run.)
 
+# License
+
+It's licensed under the GNU GPLv3 license.
+
 # Rules:
   - lucky: all numbers containing 3 are changed to the word "lucky";
   - fizz: all numbers that are multiple of 3 are changed to the word "fizz";
