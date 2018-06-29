@@ -33,7 +33,7 @@ Windows:
 
   - Setup an alias (if you have Bash) (optional): in the Bash installation directory, edit the file aliases.sh adding the line below 
   
-                              alias fizzbuzz='java -jar <absolute-path>/fizzbuzz.jar'
+                              alias fizzbuzz='java -jar <absolute-path>/fizzbuzz*.jar'
                               
     where "<absolute-path>" is the absolute path where you saved the fizzbuzz jar.
     (Atention: this action may require admin permissions)
