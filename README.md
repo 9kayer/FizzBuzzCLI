@@ -28,7 +28,7 @@ Output:
                               1 2 lucky 4 buzz fizz 7 8 9 buzz 11 fizz lucky 14 fizzbuzz 16
 
 # How to install (with alias creation):
-(Note: I'm assuming that you have Bash or a unix terminal of some sort. Without it, the alias creation will not work.)
+(Note: I'm assuming that you have Bash or a unix terminal of some sort. Without it, the creation of the alias will not work.)
 
 Windows:
 
