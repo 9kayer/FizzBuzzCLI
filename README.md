@@ -8,7 +8,7 @@ CLI for the FizzBuzz game
 It's licensed under the GNU GPLv3 license.
 
 # Rules:
-  - lucky: all numbers containing 3 are changed to the word "lucky";
+  - lucky: all numbers containing a 3 are changed to the word "lucky";
   - fizz: all numbers that are multiple of 3 are changed to the word "fizz";
   - buzz: all numbers that are multiple of 5 are changed to the word "buzz".
 
@@ -42,4 +42,4 @@ Windows:
     where "<absolute-path>" is the absolute path where you saved the fizzbuzz jar.
     (Atention: this action may require admin permissions)
   
-  - Type "fizzbuzz" in your terminal. If it return a message saying that it lakes parameters, this installation is completed.
+  - Type "fizzbuzz" in your terminal. If it returns a message saying that it lacks parameters, then this installation is completed.
